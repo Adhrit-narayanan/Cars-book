@@ -1,0 +1,11 @@
+body{
+    text-align:center;
+    background-color: aquamarine;
+  }
+  #hedding{
+    font-size:80px;
+    font-variant:small-cap;
+  }
+  img {
+    height:300px;
+  }
